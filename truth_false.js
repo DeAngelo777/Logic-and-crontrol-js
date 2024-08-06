@@ -15,7 +15,7 @@
 // 'false' in a String
 // []
 // {}
-// function () {} (empty function)
+// function () {} (empty function) 
 
 const x = function () {};
 
